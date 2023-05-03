@@ -19,8 +19,6 @@ Desenvolvedor Front-end e Designer UI/UX apaixonado por tecnologia e apreciador 
   <img alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
 
-##
-
 ## Github stats
 
 <div align="center">
