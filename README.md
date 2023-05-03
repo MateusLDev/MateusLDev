@@ -7,6 +7,7 @@
 
 Desenvolvedor Front-end e Designer UI/UX apaixonado por tecnologia e apreciador do universo fisiculturista!<br/>
 Utilizo Vue.js e React.js no meu dia a dia para a elaboração de páginas e sistemas web responsivos com integração direta à servidores.<br/><br/>
+Veja meu <a href="https://www.cvkeep.com/cv/mavue19" target="_blank">Curriculo online</a> aqui!
 
 ### Tecnologias que utilizo
 
