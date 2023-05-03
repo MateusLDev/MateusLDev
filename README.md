@@ -5,7 +5,7 @@
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/mateuslopes8)
 [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:mateuslopes.dev@outlook.com)
 
-Desenvolvedor Front-end e Designer UI/UX apaixonado por tecnologia e apreciador do universo fisiculturista!
+Desenvolvedor Front-end e Designer UI/UX apaixonado por tecnologia e apreciador do universo fisiculturista!<br/>
 Utilizo Vue.js e React.js no meu dia a dia para a elaboração de páginas e sistemas web responsivos com integração direta à servidores.<br/><br/>
 
 ### Tecnologias que utilizo
